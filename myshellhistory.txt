@@ -1,0 +1,258 @@
+cat myshellhistory.txt
+cat myrc.txt
+e
+ls | wc
+cat myshellhistory.txt
+e
+ls | sort | grep ans
+ls | sort | uniq | wc >> myrc.txt
+wc >> myrc.txt
+wc >> myrc.txt
+ls>>myrc.txt
+ls >> myrc.txt
+cat myrc.txt
+e
+ls | uniq | grep ans >> myrc.txt
+e
+ls | grep ans >> myrc.txt
+e
+ls | grep ans >> myrc.txt
+ls | grep ans >>myrc.txt
+e
+ls | grep ans >> myrc.txt
+e
+e
+ls | grep ans >> myrc.txt
+e
+e
+r
+r
+e
+ls | grep ans >> myrc.txt
+e
+e
+ls | grep ans >> myrc.txt
+cat myrc.txt
+ls >> myrc.txt
+cat myrc.txt
+e
+ls | grep ans >> myrc.txt
+cat myrc.txt
+e
+ls | grep ans >> myrc.txt
+cat myrc.txt
+e
+ls | grep ans >> myrc.txt
+cat myrc.txt
+e
+ls | grep ans >> myrc.txt
+cat myrc.txt
+e
+vlc Imagine-Dragons-Whatever-It-Takes.mp3
+cvlc Imagine-Dragons-Whatever-It-Takes.mp3
+vlc Imagine-Dragons-Whatever-It-Takes.mp3
+vlc Imagine-Dragons-Whatever-It-Takes.mp3
+e
+e
+open Imagine-Dragons-Whatever-It-Takes.mp3
+open Imagine-Dragons-Whatever-It-Takes.mp3
+open Imagine-Dragons-Whatever-It-Takes.mp3
+open Imagine-Dragons-Whatever-It-Takes.mp3
+e
+open Imagine-Dragons-Whatever-It-Takes.mp3
+e
+open Imagine-Dragons-Whatever-It-Takes.mp3
+open Imagine-Dragons-Whatever-It-Takes.mp3
+open myshellhistory.txt
+open kndwkfe
+open ans.cpp
+e
+open myshellhistory.txt
+open Imagine-Dragons-Whatever-It-Takes.mp3
+e
+e
+ls
+open OS-PG-Assignment-1.pdf
+libre OS-PG-Assignment-1.pdf
+e
+open OS-PG-Assignment-1.pdf
+e
+ls
+ls --color=auto
+ls | grep --color=auto out
+alias ls ls --color=auto
+ls
+egrep
+egrep ls
+ls | egrep ans
+ls | egrep ans 
+e
+e
+e
+ls
+e
+ls
+ls | echo
+e
+cat > my
+cat my
+ls 
+cat > myrc.txt
+cat myrc.txt
+kill -l
+e
+ls >> myrc.txt
+e
+ls >> myrc.txt
+cat myrc.txt
+e
+ls >> my
+e
+ls >> my
+e
+ls >> tk
+e
+ls >> myrc.txt
+cat myrc.txt
+pwd >> myrc.txt
+e
+pwd >> myrc.txt
+cat myrc.txt
+e
+ps >> myrc.txt
+cat myrc.txt
+
+open Imagine-Dragons-Whatever-It-Takes.mp3
+ls >> vv
+cat myrc.txt
+e
+exit
+ls -l
+record start
+ls -l
+cat scriptrecord.txt
+e
+echo yes
+record start
+echo yes
+record stop
+cat scriptrecord.txt
+h
+e
+open Imagine-Dragons-Walking-The-Wire.mp3
+echo vrmkv | wc
+e
+ls
+open betterdayshedley.mp4
+ls
+open'Hedley - Better Days.webm'
+open 'Hedley - Better Days.webm'
+open Hedley - Better Days.webm
+e
+ls
+open Hedley - Better Days.webm
+open 'Hedley - Better Days.webm'
+ls
+openHedley - Better Days.webm
+open Hedley - Better Days.webm
+open Ed Sheeran - Cross Me (feat. Chance The Rapper & PnB Rock) [Official Lyric Video].webm
+vlc Ed Sheeran - Cross Me (feat. Chance The Rapper & PnB Rock) [Official Lyric Video].webm
+e
+open 'Hedley - Better Days.webm'
+e
+open 'Hedley - Better Days.webm'
+e
+e
+open cout<<x;
+open 'Hedley - Better Days.webm'
+e
+open 'Hedley - Better Days.webm'
+e
+open betterdays-hedley.webm
+e
+openedsheeran-crossme.webm
+open edsheeran-crossme.webm
+e
+alias xyz ls
+xyz
+cat > line
+cat line
+xyz
+alias hjk ls -l
+cat >> line
+hjk
+cat myrc.txt
+e
+echo $pATH
+e
+echo $fknv
+e
+echo $PATH
+e
+echo $PATH
+e
+echo $PATH
+E
+e
+echo $PATH
+echo $HOME
+top
+ls | wc
+ls | wc
+chown yash myrc.txt
+ls -l
+e
+echo $$
+e
+$?
+e
+ls | wc
+ls | sort | wc
+e
+e
+ps kfd
+$?
+echo $?
+ps kfd
+echo $?
+e
+ps lmclsdv
+echo $?
+e
+ps vnfkd
+$?
+ps
+e
+ps
+$?
+pclvrb
+e
+mlcm
+$?
+e
+pslrmg
+$?
+e
+ldvmls
+ps
+e
+mce
+$?
+relmb;ghr,b
+c;v,;r,ev;,vre;
+e
+ls
+e
+ls
+mclmfce
+ps
+e
+vlm
+$?
+e
+mlvms
+$?
+e
+lvdnv
+$?
+e
